@@ -96,3 +96,37 @@
     margin-top: 15px;
 }
 
+/*section 3*/
+
+/*section 4*/
+
+.title-for-section4 {
+    color: var(--gray-4, #BDBDBD);
+    font-family: TT Hoves;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 64px;
+}
+
+.ul-picture-section4 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.button-for-section4{
+    width: 222px;
+    height: 71px;
+    flex-shrink: 0;
+    background: var(--gray-1, #333);
+    float: right;
+    
+}
+
+.section5 {
+    padding-top: ;
+}
